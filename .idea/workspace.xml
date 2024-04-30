@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ca5591d-7c87-4a67-87fc-d268855d553c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/challenges/challenge08/SumOfOddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenges/challenge08/SumOfOddNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/lecture01/VariableInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/lecture01/VariableInJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,35 +51,49 @@
     "Application.AddTwoNumber.executor": "Run",
     "Application.Area.executor": "Run",
     "Application.ArithmeticOperators.executor": "Run",
+    "Application.Armstrong.executor": "Run",
+    "Application.ArrayPractice.executor": "Run",
     "Application.Bitwise.executor": "Run",
     "Application.BitwiseOperator.executor": "Run",
     "Application.Categories.executor": "Run",
     "Application.Challenge01.executor": "Run",
     "Application.Challenge02.executor": "Run",
     "Application.Challenge04.executor": "Run",
+    "Application.CheckSorted.executor": "Run",
     "Application.CompoundInterest.executor": "Run",
+    "Application.DeletingElement.executor": "Run",
     "Application.EscapeSeq.executor": "Run",
     "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
     "Application.FunctionEx.executor": "Run",
+    "Application.Gcd.executor": "Run",
     "Application.Grading.executor": "Run",
     "Application.GreatestNum.executor": "Run",
     "Application.IfElse.executor": "Run",
+    "Application.Lcm.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MergeTwoSortedArray.executor": "Run",
+    "Application.MinAndMaxEle.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.NumberCheck.executor": "Run",
+    "Application.Occurrences.executor": "Run",
     "Application.OddEven.executor": "Run",
     "Application.OddEvenUsingBit.executor": "Run",
     "Application.OrderOfOperation.executor": "Run",
+    "Application.Palindrome.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.Parameter.executor": "Run",
     "Application.Pattern.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.PrintGreeting.executor": "Run",
     "Application.ProductOfFloat.executor": "Run",
+    "Application.Reverse.executor": "Run",
     "Application.ReverseDigit.executor": "Run",
+    "Application.SearchElementInTwoD.executor": "Run",
     "Application.ShortHand.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
+    "Application.SumAndAvg.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "Application.SumOfOddNumber.executor": "Run",
     "Application.TemperatureCalculator.executor": "Run",
@@ -98,13 +112,13 @@
       <command value="dir" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimeNumber">
-    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge08.PalindromeNumber" />
+  <component name="RunManager" selected="Application.SumAndAvgOfTwoD">
+    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge09.MergeTwoSortedArray" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge08.*" />
+          <option name="PATTERN" value="challenges.challenge09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge08.Pattern" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge09.Palindrome" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge08.*" />
+          <option name="PATTERN" value="challenges.challenge09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge08.PrimeNumber" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge09.Reverse" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge08.*" />
+          <option name="PATTERN" value="challenges.challenge09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge08.ReverseDigit" />
+    <configuration name="SearchElementInTwoD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge09.SearchElementInTwoD" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge08.*" />
+          <option name="PATTERN" value="challenges.challenge09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge08.SumOfDigits" />
+    <configuration name="SumAndAvgOfTwoD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge09.SumAndAvgOfTwoD" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge08.*" />
+          <option name="PATTERN" value="challenges.challenge09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.Pattern" />
-        <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.ReverseDigit" />
-        <item itemvalue="Application.SumOfDigits" />
+        <item itemvalue="Application.SumAndAvgOfTwoD" />
+        <item itemvalue="Application.SearchElementInTwoD" />
+        <item itemvalue="Application.MergeTwoSortedArray" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.Reverse" />
       </list>
     </recent_temporary>
   </component>

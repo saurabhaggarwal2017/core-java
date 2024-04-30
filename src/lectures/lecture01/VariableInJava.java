@@ -11,6 +11,7 @@ public class VariableInJava {
         long g = 334; // 8 byte
         boolean h = true; // 1 bit
 
+
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
