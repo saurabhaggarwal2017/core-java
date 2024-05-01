@@ -8,7 +8,7 @@ public class SumAndAvgOfTwoD {
 
         System.out.println("Program of sum and avg. of 2d Array.");
         int[][] arr = ArrayUtil.input2DArray();
-
+        System.out.println("-> " + (arr.length) + ", " + (arr[0].length));
         int sum = sumOfTwoDArray(arr);
         float avg = avgOfTwoDArray(arr);
         System.out.println("Sum of two d arrays is : " + sum);
@@ -30,7 +30,7 @@ public class SumAndAvgOfTwoD {
     }
 
     public static float avgOfTwoDArray(int[][] arr) {
-        if (arr.length == 0) return 0;
+        if (arr.length == 0 || arr[0].length == 0) return 0;
         float sum = sumOfTwoDArray(arr);
         float result = sum / (arr.length * arr[0].length);
         return result;

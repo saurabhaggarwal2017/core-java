@@ -58,6 +58,7 @@ public class ArrayUtil {
                 System.out.print(arr[i][j] + ", ");
                 j++;
             }
+            System.out.println();
             i++;
         }
     }
