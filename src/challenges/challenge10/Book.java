@@ -1,28 +1,53 @@
 package challenges.challenge10;
 
 public class Book {
-    public static int totalBooks;
+    static int totalBooks;
 
-    public String title;
-    public String author;
-    public String isbn;
+    String title;
+    String author;
+    String isbn;
+    boolean isBorrow;
 
     static {
         totalBooks = 0;
     }
+
     {
         totalBooks++;
     }
 
-    public void borrowBook() {
-        System.out.println("this " + this.title + " is borrowed.");
+    Book(String title, String author, String isbn) {
+        this.title = title;
+        this.author = author;
+        this.isbn = isbn;
     }
 
-    public void returnBook() {
-        System.out.println("this " + this.title + " is returned.");
+    Book(String isbn) {
+        this("Unknown", "Unknown", isbn);
     }
 
-    public static int getTotalBooks() {
+
+    static int getTotalBooks() {
         return totalBooks;
     }
+
+    void borrowBook() {
+        if (isBorrow) {
+            System.out.println("Book is already borrowed!");
+        } else {
+            this.isBorrow = true;
+            System.out.println("Enjoy " + this.title);
+        }
+    }
+
+    void returnBook() {
+        if (isBorrow) {
+            this.isBorrow = false;
+            System.out.println("Hope you enjoyed, Please leave a review");
+        } else {
+            System.out.println("No one borrowed yet you can borrow!");
+        }
+    }
+
+
 }
