@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ca5591d-7c87-4a67-87fc-d268855d553c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/challenges/challenge10/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenges/challenge10/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/challenges/challenge10/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenges/challenge10/Library.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +67,7 @@
     "Application.DiagonalSum.executor": "Run",
     "Application.EscapeSeq.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
+    "Application.ExitOnExit.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.FunctionEx.executor": "Run",
@@ -80,12 +79,14 @@
     "Application.LeapYear.executor": "Run",
     "Application.Library.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaximumNumber.executor": "Run",
     "Application.MergeTwoSortedArray.executor": "Run",
     "Application.MinAndMaxEle.executor": "Run",
     "Application.MinOfTwoNumbers.executor": "Run",
     "Application.Months.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.NumberCheck.executor": "Run",
+    "Application.NumberGuessGame.executor": "Run",
     "Application.Occurrences.executor": "Run",
     "Application.OddEven.executor": "Run",
     "Application.OddEvenUsingBit.executor": "Run",
@@ -93,6 +94,7 @@
     "Application.Palindrome.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.Parameter.executor": "Run",
+    "Application.PasswordChecker.executor": "Run",
     "Application.Pattern.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.PrintGreeting.executor": "Run",
@@ -107,6 +109,7 @@
     "Application.SumAndAvgOfTwoD.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "Application.SumOfOddNumber.executor": "Run",
+    "Application.SumPositive.executor": "Run",
     "Application.TemperatureCalculator.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
@@ -123,13 +126,13 @@
       <command value="dir" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
-    <configuration name="AbsoluteValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge11.AbsoluteValue" />
+  <component name="RunManager" selected="Application.PrintEven">
+    <configuration name="ExitOnExit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.ExitOnExit" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge11.*" />
+          <option name="PATTERN" value="challenges.challenge12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge11.Calculator" />
+    <configuration name="MaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.MaximumNumber" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge11.*" />
+          <option name="PATTERN" value="challenges.challenge12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge11.EvenOrOdd" />
+    <configuration name="Occurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.Occurrences" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge11.*" />
+          <option name="PATTERN" value="challenges.challenge12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Months" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge11.Months" />
+    <configuration name="PrintEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.PrintEven" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge11.*" />
+          <option name="PATTERN" value="challenges.challenge12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge11.StudentScore" />
+    <configuration name="SumPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.SumPositive" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge11.*" />
+          <option name="PATTERN" value="challenges.challenge12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Months" />
-        <item itemvalue="Application.StudentScore" />
-        <item itemvalue="Application.AbsoluteValue" />
-        <item itemvalue="Application.EvenOrOdd" />
+        <item itemvalue="Application.PrintEven" />
+        <item itemvalue="Application.SumPositive" />
+        <item itemvalue="Application.ExitOnExit" />
+        <item itemvalue="Application.Occurrences" />
+        <item itemvalue="Application.MaximumNumber" />
       </list>
     </recent_temporary>
   </component>
