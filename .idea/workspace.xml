@@ -69,6 +69,7 @@
     "Application.EvenOrOdd.executor": "Run",
     "Application.ExitOnExit.executor": "Run",
     "Application.Factorial.executor": "Run",
+    "Application.FiboRecur.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.FunctionEx.executor": "Run",
     "Application.Gcd.executor": "Run",
@@ -97,6 +98,7 @@
     "Application.PasswordChecker.executor": "Run",
     "Application.Pattern.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.PrintEven.executor": "Run",
     "Application.PrintGreeting.executor": "Run",
     "Application.ProductOfFloat.executor": "Run",
     "Application.Reverse.executor": "Run",
@@ -126,7 +128,7 @@
       <command value="dir" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintEven">
+  <component name="RunManager" selected="Application.PalindromeRecur">
     <configuration name="ExitOnExit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="challenges.challenge12.ExitOnExit" />
       <module name="Learn_Core_java" />
@@ -140,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.MaximumNumber" />
+    <configuration name="FiboRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.FiboRecur" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
@@ -153,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Occurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.Occurrences" />
+    <configuration name="PalindromeRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.PalindromeRecur" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
@@ -194,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeRecur" />
+        <item itemvalue="Application.FiboRecur" />
         <item itemvalue="Application.PrintEven" />
         <item itemvalue="Application.SumPositive" />
         <item itemvalue="Application.ExitOnExit" />
-        <item itemvalue="Application.Occurrences" />
-        <item itemvalue="Application.MaximumNumber" />
       </list>
     </recent_temporary>
   </component>
