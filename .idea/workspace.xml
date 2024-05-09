@@ -62,9 +62,12 @@
     "Application.Challenge02.executor": "Run",
     "Application.Challenge04.executor": "Run",
     "Application.CheckSorted.executor": "Run",
+    "Application.Circle.executor": "Run",
     "Application.CompoundInterest.executor": "Run",
+    "Application.Concatenate.executor": "Run",
     "Application.DeletingElement.executor": "Run",
     "Application.DiagonalSum.executor": "Run",
+    "Application.Dice.executor": "Run",
     "Application.EscapeSeq.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
     "Application.ExitOnExit.executor": "Run",
@@ -94,6 +97,7 @@
     "Application.OrderOfOperation.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
+    "Application.PalindromeRecur.executor": "Run",
     "Application.Parameter.executor": "Run",
     "Application.PasswordChecker.executor": "Run",
     "Application.Pattern.executor": "Run",
@@ -101,11 +105,14 @@
     "Application.PrintEven.executor": "Run",
     "Application.PrintGreeting.executor": "Run",
     "Application.ProductOfFloat.executor": "Run",
+    "Application.RandomGame.executor": "Run",
     "Application.Reverse.executor": "Run",
     "Application.ReverseDigit.executor": "Run",
     "Application.SearchElementInTwoD.executor": "Run",
     "Application.ShortHand.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
+    "Application.StringBuilderChallenge.executor": "Run",
+    "Application.Student.executor": "Run",
     "Application.StudentScore.executor": "Run",
     "Application.SumAndAvg.executor": "Run",
     "Application.SumAndAvgOfTwoD.executor": "Run",
@@ -113,6 +120,7 @@
     "Application.SumOfOddNumber.executor": "Run",
     "Application.SumPositive.executor": "Run",
     "Application.TemperatureCalculator.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
     "Application.UserInputProgram.executor": "Run",
@@ -128,13 +136,13 @@
       <command value="dir" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromeRecur">
-    <configuration name="ExitOnExit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.ExitOnExit" />
+  <component name="RunManager" selected="Application.FinalFields">
+    <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge13.Dice" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge12.*" />
+          <option name="PATTERN" value="challenges.challenge13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FiboRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.FiboRecur" />
+    <configuration name="FinalFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge13.FinalFields" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge12.*" />
+          <option name="PATTERN" value="challenges.challenge13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.PalindromeRecur" />
+    <configuration name="RandomGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge13.RandomGame" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge12.*" />
+          <option name="PATTERN" value="challenges.challenge13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.PrintEven" />
+    <configuration name="StringBuilderChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge13.StringBuilderChallenge" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge12.*" />
+          <option name="PATTERN" value="challenges.challenge13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge12.SumPositive" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.Test" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge12.*" />
+          <option name="PATTERN" value="challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PalindromeRecur" />
-        <item itemvalue="Application.FiboRecur" />
-        <item itemvalue="Application.PrintEven" />
-        <item itemvalue="Application.SumPositive" />
-        <item itemvalue="Application.ExitOnExit" />
+        <item itemvalue="Application.FinalFields" />
+        <item itemvalue="Application.StringBuilderChallenge" />
+        <item itemvalue="Application.RandomGame" />
+        <item itemvalue="Application.Dice" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
