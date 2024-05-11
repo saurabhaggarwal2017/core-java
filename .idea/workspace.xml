@@ -45,99 +45,100 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AbsoluteValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AddTwoNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Area.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArithmeticOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayPractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bitwise.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BitwiseOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Book.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Categories.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Challenge01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Challenge02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Challenge04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckSorted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CompoundInterest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Concatenate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeletingElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DiagonalSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EscapeSeq.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenOrOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExitOnExit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FiboRecur.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FinalFields.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FunctionEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Gcd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Grading.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GreatestNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfElse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lcm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Library.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinAndMaxEle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinOfTwoNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Months.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberGuessGame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Occurrences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OddEvenUsingBit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OrderOfOperation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeRecur.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Parameter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PasswordChecker.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintGreeting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOfFloat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RandomGame.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseDigit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SearchElementInTwoD.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShortHand.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SimpleInterest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBuilderChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentScore.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumAndAvg.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumAndAvgOfTwoD.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfOddNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumPositive.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TemperatureCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserInputProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VariableInJava.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbsoluteValue.executor": "Run",
+    "Application.AddTwoNumber.executor": "Run",
+    "Application.Area.executor": "Run",
+    "Application.ArithmeticOperators.executor": "Run",
+    "Application.Armstrong.executor": "Run",
+    "Application.ArrayPractice.executor": "Run",
+    "Application.Bitwise.executor": "Run",
+    "Application.BitwiseOperator.executor": "Run",
+    "Application.Book.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Categories.executor": "Run",
+    "Application.Challenge01.executor": "Run",
+    "Application.Challenge02.executor": "Run",
+    "Application.Challenge04.executor": "Run",
+    "Application.CheckSorted.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.CompoundInterest.executor": "Run",
+    "Application.Concatenate.executor": "Run",
+    "Application.DeletingElement.executor": "Run",
+    "Application.DiagonalSum.executor": "Run",
+    "Application.Dice.executor": "Run",
+    "Application.EscapeSeq.executor": "Run",
+    "Application.EvenOrOdd.executor": "Run",
+    "Application.ExitOnExit.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FiboRecur.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FinalFields.executor": "Run",
+    "Application.FunctionEx.executor": "Run",
+    "Application.Gcd.executor": "Run",
+    "Application.Grading.executor": "Run",
+    "Application.GreatestNum.executor": "Run",
+    "Application.IfElse.executor": "Run",
+    "Application.Lcm.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.Library.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaximumNumber.executor": "Run",
+    "Application.MergeTwoSortedArray.executor": "Run",
+    "Application.MinAndMaxEle.executor": "Run",
+    "Application.MinOfTwoNumbers.executor": "Run",
+    "Application.Months.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.NumberCheck.executor": "Run",
+    "Application.NumberGuessGame.executor": "Run",
+    "Application.Occurrences.executor": "Run",
+    "Application.OddEven.executor": "Run",
+    "Application.OddEvenUsingBit.executor": "Run",
+    "Application.OrderOfOperation.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PalindromeNumber.executor": "Run",
+    "Application.PalindromeRecur.executor": "Run",
+    "Application.Parameter.executor": "Run",
+    "Application.PasswordChecker.executor": "Run",
+    "Application.Pattern.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.PrintEven.executor": "Run",
+    "Application.PrintGreeting.executor": "Run",
+    "Application.ProductOfFloat.executor": "Run",
+    "Application.RandomGame.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.ReverseDigit.executor": "Run",
+    "Application.SearchElementInTwoD.executor": "Run",
+    "Application.ShortHand.executor": "Run",
+    "Application.SimpleInterest.executor": "Run",
+    "Application.StringBuilderChallenge.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.StudentScore.executor": "Run",
+    "Application.SumAndAvg.executor": "Run",
+    "Application.SumAndAvgOfTwoD.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.SumOfOddNumber.executor": "Run",
+    "Application.SumPositive.executor": "Run",
+    "Application.TemperatureCalculator.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.UnaryOperator.executor": "Run",
+    "Application.UserInputProgram.executor": "Run",
+    "Application.VariableInJava.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
+    "Application.challenges.challenge15.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="dir" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.challenges.challenge15.Test">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="challenges.challenge14.com.example.utils.Calculator" />
       <module name="Learn_Core_java" />
@@ -153,19 +154,6 @@
     </configuration>
     <configuration name="FinalFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="challenges.challenge13.FinalFields" />
-      <module name="Learn_Core_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenges.challenge13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge13.RandomGame" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
@@ -203,13 +191,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="challenges.challenge15.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge15.Test" />
+      <module name="Learn_Core_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.challenge15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.challenges.challenge15.Test" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.FinalFields" />
         <item itemvalue="Application.StringBuilderChallenge" />
-        <item itemvalue="Application.RandomGame" />
       </list>
     </recent_temporary>
   </component>
