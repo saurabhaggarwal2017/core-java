@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ca5591d-7c87-4a67-87fc-d268855d553c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,6 +131,7 @@
     "Application.WhileLoop.executor": "Run",
     "Application.challenges.challenge15.Test.executor": "Run",
     "Application.challenges.challenge16.Test.executor": "Run",
+    "Application.challenges.challenge17.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
@@ -140,26 +142,13 @@
       <command value="dir" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.challenges.challenge16.Test">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge14.com.example.utils.Calculator" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.lecture03.testing.Main" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge14.com.example.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinalFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge13.FinalFields" />
-      <module name="Learn_Core_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenges.challenge13.*" />
+          <option name="PATTERN" value="lectures.lecture03.testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,13 +195,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="challenges.challenge17.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge17.Test" />
+      <module name="Learn_Core_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.challenge17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.challenges.challenge17.Test" />
         <item itemvalue="Application.challenges.challenge16.Test" />
         <item itemvalue="Application.challenges.challenge15.Test" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.FinalFields" />
       </list>
     </recent_temporary>
   </component>
