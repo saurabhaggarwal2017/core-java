@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ca5591d-7c87-4a67-87fc-d268855d553c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +51,7 @@
     "Application.AbsoluteValue.executor": "Run",
     "Application.AddTwoNumber.executor": "Run",
     "Application.Area.executor": "Run",
+    "Application.ArithmeticExceptionHandler.executor": "Run",
     "Application.ArithmeticOperators.executor": "Run",
     "Application.Armstrong.executor": "Run",
     "Application.ArrayPractice.executor": "Run",
@@ -76,6 +76,8 @@
     "Application.Factorial.executor": "Run",
     "Application.FiboRecur.executor": "Run",
     "Application.Fibonacci.executor": "Run",
+    "Application.FileReadProgram.executor": "Run",
+    "Application.FileWriteProgram.executor": "Run",
     "Application.FinalFields.executor": "Run",
     "Application.FunctionEx.executor": "Run",
     "Application.Gcd.executor": "Run",
@@ -142,52 +144,52 @@
       <command value="dir" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.FileReadProgram">
+    <configuration name="ArithmeticExceptionHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge18.ArithmeticExceptionHandler" />
+      <module name="Learn_Core_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.challenge18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReadProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge18.FileReadProgram" />
+      <module name="Learn_Core_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.challenge18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileWriteProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge18.FileWriteProgram" />
+      <module name="Learn_Core_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.challenge18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lectures.lecture03.testing.Main" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lectures.lecture03.testing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge14.com.axis.Test" />
-      <module name="Learn_Core_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenges.challenge14.com.axis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="challenges.challenge15.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge15.Test" />
-      <module name="Learn_Core_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenges.challenge15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="challenges.challenge16.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge16.Test" />
-      <module name="Learn_Core_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenges.challenge16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileReadProgram" />
+        <item itemvalue="Application.FileWriteProgram" />
+        <item itemvalue="Application.ArithmeticExceptionHandler" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.challenges.challenge17.Test" />
-        <item itemvalue="Application.challenges.challenge16.Test" />
-        <item itemvalue="Application.challenges.challenge15.Test" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
