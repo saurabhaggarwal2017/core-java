@@ -67,6 +67,7 @@
     "Application.Circle.executor": "Run",
     "Application.CompoundInterest.executor": "Run",
     "Application.Concatenate.executor": "Run",
+    "Application.CountFrequency.executor": "Run",
     "Application.DeletingElement.executor": "Run",
     "Application.DiagonalSum.executor": "Run",
     "Application.Dice.executor": "Run",
@@ -109,14 +110,18 @@
     "Application.PrimeNumber.executor": "Run",
     "Application.PrintEven.executor": "Run",
     "Application.PrintGreeting.executor": "Run",
+    "Application.PriorityQueueQuestion.executor": "Run",
     "Application.ProductOfFloat.executor": "Run",
     "Application.RandomGame.executor": "Run",
     "Application.Reverse.executor": "Run",
     "Application.ReverseDigit.executor": "Run",
+    "Application.ReverseList.executor": "Run",
     "Application.SearchElementInTwoD.executor": "Run",
     "Application.ShortHand.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
+    "Application.SortList.executor": "Run",
     "Application.StringBuilderChallenge.executor": "Run",
+    "Application.StringConcatination.executor": "Run",
     "Application.Student.executor": "Run",
     "Application.StudentScore.executor": "Run",
     "Application.SumAndAvg.executor": "Run",
@@ -124,6 +129,7 @@
     "Application.SumOfDigits.executor": "Run",
     "Application.SumOfOddNumber.executor": "Run",
     "Application.SumPositive.executor": "Run",
+    "Application.SwapArrayListElement.executor": "Run",
     "Application.TemperatureCalculator.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TypeCasting.executor": "Run",
@@ -144,13 +150,13 @@
       <command value="dir" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileReadProgram">
-    <configuration name="ArithmeticExceptionHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge18.ArithmeticExceptionHandler" />
+  <component name="RunManager" selected="Application.PriorityQueueQuestion">
+    <configuration name="CountFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge19.CountFrequency" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge18.*" />
+          <option name="PATTERN" value="challenges.challenge19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReadProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge18.FileReadProgram" />
+    <configuration name="PriorityQueueQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge19.PriorityQueueQuestion" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge18.*" />
+          <option name="PATTERN" value="challenges.challenge19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileWriteProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge18.FileWriteProgram" />
+    <configuration name="ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge19.ReverseList" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge18.*" />
+          <option name="PATTERN" value="challenges.challenge19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.lecture03.testing.Main" />
+    <configuration name="SortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge19.SortList" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.lecture03.testing.*" />
+          <option name="PATTERN" value="challenges.challenge19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="challenges.challenge17.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge17.Test" />
+    <configuration name="SwapArrayListElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge19.SwapArrayListElement" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge17.*" />
+          <option name="PATTERN" value="challenges.challenge19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileReadProgram" />
-        <item itemvalue="Application.FileWriteProgram" />
-        <item itemvalue="Application.ArithmeticExceptionHandler" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.challenges.challenge17.Test" />
+        <item itemvalue="Application.PriorityQueueQuestion" />
+        <item itemvalue="Application.ReverseList" />
+        <item itemvalue="Application.SwapArrayListElement" />
+        <item itemvalue="Application.CountFrequency" />
+        <item itemvalue="Application.SortList" />
       </list>
     </recent_temporary>
   </component>
