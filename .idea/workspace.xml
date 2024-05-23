@@ -134,6 +134,7 @@
     "Application.Test.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.UnaryOperator.executor": "Run",
+    "Application.UniqueCharacter.executor": "Run",
     "Application.UserInputProgram.executor": "Run",
     "Application.VariableInJava.executor": "Run",
     "Application.WhileLoop.executor": "Run",
@@ -150,7 +151,7 @@
       <command value="dir" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.PriorityQueueQuestion">
+  <component name="RunManager" selected="Application.UniqueCharacter">
     <configuration name="CountFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="challenges.challenge19.CountFrequency" />
       <module name="Learn_Core_java" />
@@ -190,19 +191,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge19.SortList" />
-      <module name="Learn_Core_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenges.challenge19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SwapArrayListElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="challenges.challenge19.SwapArrayListElement" />
       <module name="Learn_Core_java" />
@@ -216,13 +204,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge19.UniqueCharacter" />
+      <module name="Learn_Core_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.challenge19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueCharacter" />
         <item itemvalue="Application.PriorityQueueQuestion" />
         <item itemvalue="Application.ReverseList" />
         <item itemvalue="Application.SwapArrayListElement" />
         <item itemvalue="Application.CountFrequency" />
-        <item itemvalue="Application.SortList" />
       </list>
     </recent_temporary>
   </component>
