@@ -87,6 +87,7 @@
     "Application.Gcd.executor": "Run",
     "Application.Grading.executor": "Run",
     "Application.GreatestNum.executor": "Run",
+    "Application.HelloThreadTesting.executor": "Run",
     "Application.IfElse.executor": "Run",
     "Application.Lcm.executor": "Run",
     "Application.LeapYear.executor": "Run",
@@ -122,8 +123,10 @@
     "Application.ReverseList.executor": "Run",
     "Application.SearchElementInTwoD.executor": "Run",
     "Application.ShortHand.executor": "Run",
+    "Application.SignalTest.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
     "Application.SortList.executor": "Run",
+    "Application.StateTesting.executor": "Run",
     "Application.StringBuilderChallenge.executor": "Run",
     "Application.StringConcatination.executor": "Run",
     "Application.Student.executor": "Run",
@@ -134,6 +137,7 @@
     "Application.SumOfOddNumber.executor": "Run",
     "Application.SumPositive.executor": "Run",
     "Application.SwapArrayListElement.executor": "Run",
+    "Application.SyncTesting.executor": "Run",
     "Application.TemperatureCalculator.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TypeCasting.executor": "Run",
@@ -155,13 +159,13 @@
       <command value="dir" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapQuestion">
-    <configuration name="Day" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge20.Day" />
+  <component name="RunManager" selected="Application.SignalTest">
+    <configuration name="HelloThreadTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge21.HelloThreadTesting" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge20.*" />
+          <option name="PATTERN" value="challenges.challenge21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge20.EnumTest" />
+    <configuration name="SignalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge21.SignalTest" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge20.*" />
+          <option name="PATTERN" value="challenges.challenge21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge20.MapQuestion" />
+    <configuration name="StateTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge21.StateTesting" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge20.*" />
+          <option name="PATTERN" value="challenges.challenge21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge19.PriorityQueueQuestion" />
+    <configuration name="SyncTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge21.SyncTesting" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge19.*" />
+          <option name="PATTERN" value="challenges.challenge21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge19.UniqueCharacter" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.lecture03.Test" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge19.*" />
+          <option name="PATTERN" value="lectures.lecture03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MapQuestion" />
-        <item itemvalue="Application.EnumTest" />
-        <item itemvalue="Application.Day" />
-        <item itemvalue="Application.UniqueCharacter" />
-        <item itemvalue="Application.PriorityQueueQuestion" />
+        <item itemvalue="Application.SignalTest" />
+        <item itemvalue="Application.SyncTesting" />
+        <item itemvalue="Application.StateTesting" />
+        <item itemvalue="Application.HelloThreadTesting" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
