@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -83,13 +83,17 @@
     "Application.Fibonacci.executor": "Run",
     "Application.FileReadProgram.executor": "Run",
     "Application.FileWriteProgram.executor": "Run",
+    "Application.FilterOddNumber.executor": "Run",
+    "Application.FilterOutStrings.executor": "Run",
     "Application.FinalFields.executor": "Run",
     "Application.FunctionEx.executor": "Run",
+    "Application.FunctionalInterfaceTest.executor": "Run",
     "Application.Gcd.executor": "Run",
     "Application.Grading.executor": "Run",
     "Application.GreatestNum.executor": "Run",
     "Application.HelloThreadTesting.executor": "Run",
     "Application.IfElse.executor": "Run",
+    "Application.LambdaMultiplication.executor": "Run",
     "Application.Lcm.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.Library.executor": "Run",
@@ -107,6 +111,7 @@
     "Application.Occurrences.executor": "Run",
     "Application.OddEven.executor": "Run",
     "Application.OddEvenUsingBit.executor": "Run",
+    "Application.OptionalString.executor": "Run",
     "Application.OrderOfOperation.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
@@ -115,6 +120,7 @@
     "Application.PasswordChecker.executor": "Run",
     "Application.Pattern.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.PrintArrayOfString.executor": "Run",
     "Application.PrintEven.executor": "Run",
     "Application.PrintGreeting.executor": "Run",
     "Application.PriorityQueueQuestion.executor": "Run",
@@ -162,13 +168,13 @@
       <command value="dir" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.FactorialTest">
+  <component name="RunManager" selected="Application.OptionalString">
     <configuration name="FactorialTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge22.FactorialTest" />
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge24.FactorialTest" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge22.*" />
+          <option name="PATTERN" value="challenges.challenge24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge22.MultiThreadTest" />
+    <configuration name="FilterOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge23.FilterOddNumber" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge22.*" />
+          <option name="PATTERN" value="challenges.challenge23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SignalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge21.SignalTest" />
+    <configuration name="FilterOutStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge23.FilterOutStrings" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge21.*" />
+          <option name="PATTERN" value="challenges.challenge23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SyncTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge21.SyncTesting" />
+    <configuration name="FunctionalInterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge24.FunctionalInterfaceTest" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge21.*" />
+          <option name="PATTERN" value="challenges.challenge24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPrintNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge22.TestPrintNumber" />
+    <configuration name="OptionalString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge24.OptionalString" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenges.challenge22.*" />
+          <option name="PATTERN" value="challenges.challenge24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptionalString" />
         <item itemvalue="Application.FactorialTest" />
-        <item itemvalue="Application.MultiThreadTest" />
-        <item itemvalue="Application.TestPrintNumber" />
-        <item itemvalue="Application.SignalTest" />
-        <item itemvalue="Application.SyncTesting" />
+        <item itemvalue="Application.FunctionalInterfaceTest" />
+        <item itemvalue="Application.FilterOddNumber" />
+        <item itemvalue="Application.FilterOutStrings" />
       </list>
     </recent_temporary>
   </component>
