@@ -73,6 +73,8 @@
     "Application.DeletingElement.executor": "Run",
     "Application.DiagonalSum.executor": "Run",
     "Application.Dice.executor": "Run",
+    "Application.DistinctElement.executor": "Run",
+    "Application.EmpStream.executor": "Run",
     "Application.EnumTest.executor": "Run",
     "Application.EscapeSeq.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
@@ -168,48 +170,35 @@
       <command value="dir" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.OptionalString">
+  <component name="RunManager" selected="Application.StringToNumber">
+    <configuration name="DistinctElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge25.DistinctElement" />
+      <module name="Learn_Core_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.challenge25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge25.EmpStream" />
+      <module name="Learn_Core_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.challenge25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FactorialTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="challenges.challenge24.FactorialTest" />
-      <module name="Learn_Core_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenges.challenge24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FilterOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge23.FilterOddNumber" />
-      <module name="Learn_Core_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenges.challenge23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FilterOutStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge23.FilterOutStrings" />
-      <module name="Learn_Core_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="challenges.challenge23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionalInterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenges.challenge24.FunctionalInterfaceTest" />
       <module name="Learn_Core_java" />
       <extension name="coverage">
         <pattern>
@@ -234,13 +223,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenges.challenge25.StringToNumber" />
+      <module name="Learn_Core_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenges.challenge25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringToNumber" />
+        <item itemvalue="Application.EmpStream" />
+        <item itemvalue="Application.DistinctElement" />
         <item itemvalue="Application.OptionalString" />
         <item itemvalue="Application.FactorialTest" />
-        <item itemvalue="Application.FunctionalInterfaceTest" />
-        <item itemvalue="Application.FilterOddNumber" />
-        <item itemvalue="Application.FilterOutStrings" />
       </list>
     </recent_temporary>
   </component>
